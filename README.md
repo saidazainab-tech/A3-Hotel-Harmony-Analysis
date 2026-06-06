@@ -37,4 +37,4 @@ to uncover patterns that optimize operations and enhance guest experience.
 - Top booking country: Portugal
 
 ## Looker Studio Dashboard
-[Link will be added after dashboard is created]
+https://datastudio.google.com/reporting/b89cccc4-78a8-4999-91c4-0d008b3fd5c6
